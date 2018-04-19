@@ -1,3 +1,25 @@
-.nav-format{
+.nav-format li{
   list-style-type: none;
+  background-color: red;
+  color: white;
+  margin: 0 10px; 
+
+}
+
+.bg-color{
+  background-color: red;
+  color: white; 
+
+}
+.date-format{
+  border-top:2px solid red;
+  display:inline;
+  color:rgb(194, 194, 194);
+}
+h4{
+  color:rgb(194, 194, 194);
+}
+.useful-links{
+  height:8vh;
+  float:left;
 }
